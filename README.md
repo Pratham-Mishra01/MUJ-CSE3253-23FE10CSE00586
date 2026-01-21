@@ -1,5 +1,6 @@
 # Student GitLab Project
 
+(Making a change from the cloned repo)
 This project is created as part of the Git Basics & Repository Management assignment.
 
 The objective of this project is to understand and practice the fundamental concepts of Git, including:
